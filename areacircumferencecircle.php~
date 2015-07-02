@@ -1,0 +1,15 @@
+<?php
+//Form method is POST
+//Calculating area and cicumference of a circle
+
+$rad=(float) $_POST['radius']{
+$cir=$pi*$rad;
+$area=$pi*$rad*$rad;
+return $cir;
+return $area;
+}
+$pi="3.142";
+$rad="7cm";
+
+echo "The circumference of the circle is=" . $cir. " ";
+echo "THe area of the circle is=" . $area. " "; 

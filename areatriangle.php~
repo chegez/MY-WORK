@@ -1,0 +1,10 @@
+<?php
+//Calculating the area of a triangle as 1/2bh
+//Half is 0.5
+function area($1/2, $b, $h);
+         return $1/2 * $b * $h;
+$1/2="0.5";
+$b="12cm";
+$h="10cm";
+echo $1/2 * $b *$h;
+

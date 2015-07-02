@@ -1,6 +1,6 @@
 <?php
 
-function stats(array $values){
+function stats(arrays $values){
          $results=["min"=>min($values),"max"=>max($values),
 "average"=>array_sum($values)/count($values)];
         return $results;
