@@ -1,0 +1,406 @@
+
+|   15644 | STANDARD    | JEANNETTE               | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-JEANNETTE                                   |             0 |            9391 |               15775 | 310854761  |
+|   15646 | STANDARD    | JONES MILLS             | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-JONES MILLS                                 |             0 |               0 |                   0 |            |
+|   15647 | STANDARD    | LARIMER                 | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-LARIMER                                     |             0 |               0 |                   0 |            |
+|   15650 | STANDARD    | LATROBE                 | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-LATROBE                                     |             0 |           13472 |               22781 | 443926805  |
+|   15655 | STANDARD    | LAUGHLINTOWN            | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-LAUGHLINTOWN                                |             0 |             353 |                 602 | 14150189   |
+|   15656 | STANDARD    | LEECHBURG               | PA    | PRIMARY      |   41 |  -80 | NA-US-PA-LEECHBURG                                   |             0 |            5106 |                8922 | 171158509  |
+|   15658 | STANDARD    | LIGONIER                | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-LIGONIER                                    |             0 |            4419 |                7512 | 157194416  |
+|   15660 | PO BOX      | LOWBER                  | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-LOWBER                                      |             0 |               0 |                   0 |            |
+|   15661 | STANDARD    | LOYALHANNA              | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-LOYALHANNA                                  |             0 |             312 |                 509 | 8718935    |
+|   15662 | PO BOX      | LUXOR                   | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-LUXOR                                       |             0 |               0 |                   0 |            |
+|   15663 | PO BOX      | MADISON                 | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-MADISON                                     |             0 |             275 |                 470 | 8389314    |
+|   15664 | PO BOX      | MAMMOTH                 | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-MAMMOTH                                     |             0 |               0 |                   0 |            |
+|   15665 | STANDARD    | MANOR                   | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-MANOR                                       |             0 |             817 |                1403 | 28953012   |
+|   15666 | STANDARD    | MOUNT PLEASANT          | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-MOUNT PLEASANT                              |             0 |            7663 |               13112 | 237676324  |
+|   15668 | STANDARD    | MURRYSVILLE             | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-MURRYSVILLE                                 |             0 |            7016 |               12760 | 432267895  |
+|   15670 | STANDARD    | NEW ALEXANDRIA          | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-NEW ALEXANDRIA                              |             0 |            1843 |                3212 | 59110954   |
+|   15671 | STANDARD    | NEW DERRY               | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-NEW DERRY                                   |             0 |             386 |                 680 | 11041345   |
+|   15672 | STANDARD    | NEW STANTON             | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-NEW STANTON                                 |             0 |            1743 |                2962 | 62896393   |
+|   15673 | PO BOX      | NORTH APOLLO            | PA    | PRIMARY      |   41 |  -80 | NA-US-PA-NORTH APOLLO                                |             0 |             658 |                1150 | 19897009   |
+|   15674 | PO BOX      | NORVELT                 | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-NORVELT                                     |             0 |               0 |                   0 |            |
+|   15675 | STANDARD    | PENN                    | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-PENN                                        |             0 |             551 |                 924 | 16382959   |
+|   15676 | PO BOX      | PLEASANT UNITY          | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-PLEASANT UNITY                              |             0 |             286 |                 506 | 9873123    |
+|   15677 | STANDARD    | RECTOR                  | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-RECTOR                                      |             0 |               0 |                   0 |            |
+|   15678 | STANDARD    | RILLTON                 | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-RILLTON                                     |             0 |             326 |                 543 | 9738436    |
+|   15679 | STANDARD    | RUFFS DALE              | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-RUFFS DALE                                  |             0 |            1676 |                2896 | 55710102   |
+|   15680 | PO BOX      | SALINA                  | PA    | PRIMARY      |   41 |  -80 | NA-US-PA-SALINA                                      |             0 |               0 |                   0 |            |
+|   15681 | STANDARD    | SALTSBURG               | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-SALTSBURG                                   |             0 |            2412 |                4194 | 78070746   |
+|   15682 | PO BOX      | SCHENLEY                | PA    | PRIMARY      |   41 |  -80 | NA-US-PA-SCHENLEY                                    |             0 |               0 |                   0 |            |
+|   15683 | STANDARD    | SCOTTDALE               | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-SCOTTDALE                                   |             0 |            4072 |                7090 | 128711405  |
+|   15684 | STANDARD    | SLICKVILLE              | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-SLICKVILLE                                  |             0 |             394 |                 641 | 9429672    |
+|   15685 | PO BOX      | SOUTHWEST               | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-SOUTHWEST                                   |             0 |               0 |                   0 |            |
+|   15686 | STANDARD    | SPRING CHURCH           | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-SPRING CHURCH                               |             0 |             436 |                 815 | 14038273   |
+|   15687 | STANDARD    | STAHLSTOWN              | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-STAHLSTOWN                                  |             0 |             641 |                1162 | 22916257   |
+|   15688 | STANDARD    | TARRS                   | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-TARRS                                       |             0 |             364 |                 612 | 10275079   |
+|   15689 | PO BOX      | UNITED                  | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-UNITED                                      |             0 |               0 |                   0 |            |
+|   15690 | STANDARD    | VANDERGRIFT             | PA    | PRIMARY      |   41 |  -80 | NA-US-PA-VANDERGRIFT                                 |             0 |            4358 |                7442 | 116409170  |
+|   15691 | PO BOX      | WENDEL                  | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-WENDEL                                      |             0 |               0 |                   0 |            |
+|   15692 | STANDARD    | WESTMORELAND CITY       | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-WESTMORELAND CITY                           |             0 |             494 |                 820 | 14584056   |
+|   15693 | PO BOX      | WHITNEY                 | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-WHITNEY                                     |             0 |               0 |                   0 |            |
+|   15695 | PO BOX      | WYANO                   | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-WYANO                                       |             0 |               0 |                   0 |            |
+|   15696 | PO BOX      | YOUNGSTOWN              | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-YOUNGSTOWN                                  |             0 |             358 |                 562 | 9930605    |
+|   15697 | STANDARD    | YOUNGWOOD               | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-YOUNGWOOD                                   |             0 |            1622 |                2610 | 47100176   |
+|   15698 | STANDARD    | YUKON                   | PA    | PRIMARY      |   40 |  -80 | NA-US-PA-YUKON                                       |             0 |             405 |                 662 | 11213673   |
+|   15701 | STANDARD    | INDIANA                 | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-INDIANA                                     |             0 |           12887 |               21441 | 449426514  |
+|   15705 | UNIQUE      | INDIANA                 | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-INDIANA                                     |             0 |               0 |                   0 |            |
+|   15710 | PO BOX      | ALVERDA                 | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-ALVERDA                                     |             0 |               0 |                   0 |            |
+|   15711 | STANDARD    | ANITA                   | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-ANITA                                       |             0 |               0 |                   0 |            |
+|   15712 | PO BOX      | ARCADIA                 | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-ARCADIA                                     |             0 |               0 |                   0 |            |
+|   15713 | STANDARD    | AULTMAN                 | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-AULTMAN                                     |             0 |               0 |                   0 |            |
+|   15714 | STANDARD    | NORTHERN CAMBRIA        | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-NORTHERN CAMBRIA                            |             0 |            2889 |                5096 | 81026002   |
+|   15715 | PO BOX      | BIG RUN                 | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-BIG RUN                                     |             0 |             303 |                 543 | 6820827    |
+|   15716 | PO BOX      | BLACK LICK              | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-BLACK LICK                                  |             0 |             381 |                 652 | 9178957    |
+|   15717 | STANDARD    | BLAIRSVILLE             | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-BLAIRSVILLE                                 |             0 |            4888 |                8385 | 152126652  |
+|   15720 | PO BOX      | BRUSH VALLEY            | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-BRUSH VALLEY                                |             0 |               0 |                   0 |            |
+|   15721 | PO BOX      | BURNSIDE                | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-BURNSIDE                                    |             0 |               0 |                   0 |            |
+|   15722 | STANDARD    | CARROLLTOWN             | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-CARROLLTOWN                                 |             0 |            1112 |                1907 | 32074134   |
+|   15723 | PO BOX      | CHAMBERSVILLE           | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-CHAMBERSVILLE                               |             0 |               0 |                   0 |            |
+|   15724 | STANDARD    | CHERRY TREE             | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-CHERRY TREE                                 |             0 |            1062 |                1910 | 28061222   |
+|   15725 | STANDARD    | CLARKSBURG              | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-CLARKSBURG                                  |             0 |             685 |                1225 | 22994918   |
+|   15727 | PO BOX      | CLUNE                   | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-CLUNE                                       |             0 |               0 |                   0 |            |
+|   15728 | STANDARD    | CLYMER                  | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-CLYMER                                      |             0 |            1713 |                2988 | 48056115   |
+|   15729 | STANDARD    | COMMODORE               | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-COMMODORE                                   |             0 |             641 |                1187 | 18268459   |
+|   15730 | STANDARD    | COOLSPRING              | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-COOLSPRING                                  |             0 |               0 |                   0 |            |
+|   15731 | PO BOX      | CORAL                   | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-CORAL                                       |             0 |               0 |                   0 |            |
+|   15732 | STANDARD    | CREEKSIDE               | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-CREEKSIDE                                   |             0 |             791 |                1434 | 24790133   |
+|   15733 | PO BOX      | DE LANCEY               | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-DE LANCEY                                   |             0 |               0 |                   0 |            |
+|   15734 | PO BOX      | DIXONVILLE              | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-DIXONVILLE                                  |             0 |               0 |                   0 |            |
+|   15736 | PO BOX      | ELDERTON                | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-ELDERTON                                    |             0 |             313 |                 554 | 8827706    |
+|   15737 | PO BOX      | ELMORA                  | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-ELMORA                                      |             0 |             296 |                 486 | 6623753    |
+|   15738 | PO BOX      | EMEIGH                  | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-EMEIGH                                      |             0 |               0 |                   0 |            |
+|   15739 | PO BOX      | ERNEST                  | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-ERNEST                                      |             0 |               0 |                   0 |            |
+|   15740 | STANDARD    | FROSTBURG               | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-FROSTBURG                                   |             0 |               0 |                   0 |            |
+|   15741 | PO BOX      | GIPSY                   | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-GIPSY                                       |             0 |               0 |                   0 |            |
+|   15742 | STANDARD    | GLEN CAMPBELL           | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-GLEN CAMPBELL                               |             0 |             421 |                 779 | 12225657   |
+|   15744 | STANDARD    | HAMILTON                | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-HAMILTON                                    |             0 |               0 |                   0 |            |
+|   15745 | PO BOX      | HEILWOOD                | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-HEILWOOD                                    |             0 |               0 |                   0 |            |
+|   15746 | PO BOX      | HILLSDALE               | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-HILLSDALE                                   |             0 |               0 |                   0 |            |
+|   15747 | STANDARD    | HOME                    | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-HOME                                        |             0 |             948 |                1727 | 31057971   |
+|   15748 | STANDARD    | HOMER CITY              | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-HOMER CITY                                  |             0 |            3467 |                6055 | 102362812  |
+|   15750 | STANDARD    | JOSEPHINE               | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-JOSEPHINE                                   |             0 |               0 |                   0 |            |
+|   15752 | PO BOX      | KENT                    | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-KENT                                        |             0 |               0 |                   0 |            |
+|   15753 | STANDARD    | LA JOSE                 | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-LA JOSE                                     |             0 |               0 |                   0 |            |
+|   15754 | PO BOX      | LUCERNEMINES            | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-LUCERNEMINES                                |             0 |             287 |                 476 | 7913826    |
+|   15756 | PO BOX      | MC INTYRE               | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-MC INTYRE                                   |             0 |               0 |                   0 |            |
+|   15757 | STANDARD    | MAHAFFEY                | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-MAHAFFEY                                    |             0 |             754 |                1347 | 18522753   |
+|   15758 | STANDARD    | MARCHAND                | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-MARCHAND                                    |             0 |               0 |                   0 |            |
+|   15759 | STANDARD    | MARION CENTER           | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-MARION CENTER                               |             0 |            1188 |                2203 | 35406144   |
+|   15760 | STANDARD    | MARSTELLER              | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-MARSTELLER                                  |             0 |               0 |                   0 |            |
+|   15761 | STANDARD    | MENTCLE                 | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-MENTCLE                                     |             0 |               0 |                   0 |            |
+|   15762 | STANDARD    | NICKTOWN                | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-NICKTOWN                                    |             0 |             454 |                 835 | 15653513   |
+|   15763 | STANDARD    | NORTHPOINT              | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-NORTHPOINT                                  |             0 |               0 |                   0 |            |
+|   15764 | STANDARD    | OLIVEBURG               | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-OLIVEBURG                                   |             0 |               0 |                   0 |            |
+|   15765 | STANDARD    | PENN RUN                | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-PENN RUN                                    |             0 |             824 |                1484 | 29121700   |
+|   15767 | STANDARD    | PUNXSUTAWNEY            | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-PUNXSUTAWNEY                                |             0 |            6626 |               11583 | 181481699  |
+|   15770 | STANDARD    | RINGGOLD                | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-RINGGOLD                                    |             0 |               0 |                   0 |            |
+|   15771 | STANDARD    | ROCHESTER MILLS         | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-ROCHESTER MILLS                             |             0 |             423 |                 768 | 10363966   |
+|   15772 | STANDARD    | ROSSITER                | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-ROSSITER                                    |             0 |             704 |                1267 | 17777179   |
+|   15773 | STANDARD    | SAINT BENEDICT          | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-SAINT BENEDICT                              |             0 |               0 |                   0 |            |
+|   15774 | STANDARD    | SHELOCTA                | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-SHELOCTA                                    |             0 |            1531 |                2747 | 51509818   |
+|   15775 | STANDARD    | SPANGLER                | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-SPANGLER                                    |             0 |               0 |                   0 |            |
+|   15776 | STANDARD    | SPRANKLE MILLS          | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-SPRANKLE MILLS                              |             0 |               0 |                   0 |            |
+|   15777 | STANDARD    | STARFORD                | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-STARFORD                                    |             0 |               0 |                   0 |            |
+|   15778 | STANDARD    | TIMBLIN                 | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-TIMBLIN                                     |             0 |               0 |                   0 |            |
+|   15779 | PO BOX      | TORRANCE                | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-TORRANCE                                    |             0 |               0 |                   0 |            |
+|   15780 | STANDARD    | VALIER                  | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-VALIER                                      |             0 |               0 |                   0 |            |
+|   15781 | PO BOX      | WALSTON                 | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-WALSTON                                     |             0 |               0 |                   0 |            |
+|   15783 | PO BOX      | WEST LEBANON            | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-WEST LEBANON                                |             0 |               0 |                   0 |            |
+|   15784 | STANDARD    | WORTHVILLE              | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-WORTHVILLE                                  |             0 |               0 |                   0 |            |
+|   15801 | STANDARD    | DU BOIS                 | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-DU BOIS                                     |             0 |            9711 |               16630 | 305445260  |
+|   15821 | STANDARD    | BENEZETT                | PA    | PRIMARY      |   41 |  -78 | NA-US-PA-BENEZETT                                    |             0 |               0 |                   0 |            |
+|   15822 | STANDARD    | BRANDY CAMP             | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-BRANDY CAMP                                 |             0 |               0 |                   0 |            |
+|   15823 | STANDARD    | BROCKPORT               | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-BROCKPORT                                   |             0 |             740 |                1310 | 21360563   |
+|   15824 | STANDARD    | BROCKWAY                | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-BROCKWAY                                    |             0 |            2603 |                4522 | 71382491   |
+|   15825 | STANDARD    | BROOKVILLE              | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-BROOKVILLE                                  |             0 |            4673 |                8168 | 134596903  |
+|   15827 | STANDARD    | BYRNEDALE               | PA    | PRIMARY      |   41 |  -78 | NA-US-PA-BYRNEDALE                                   |             0 |               0 |                   0 |            |
+|   15828 | STANDARD    | CLARINGTON              | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-CLARINGTON                                  |             0 |               0 |                   0 |            |
+|   15829 | STANDARD    | CORSICA                 | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-CORSICA                                     |             0 |             634 |                1115 | 18879107   |
+|   15831 | PO BOX      | DAGUS MINES             | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-DAGUS MINES                                 |             0 |               0 |                   0 |            |
+|   15832 | STANDARD    | DRIFTWOOD               | PA    | PRIMARY      |   41 |  -78 | NA-US-PA-DRIFTWOOD                                   |             0 |               0 |                   0 |            |
+|   15834 | STANDARD    | EMPORIUM                | PA    | PRIMARY      |   42 |  -78 | NA-US-PA-EMPORIUM                                    |             0 |            2323 |                3962 | 59634218   |
+|   15840 | STANDARD    | FALLS CREEK             | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-FALLS CREEK                                 |             0 |             997 |                1691 | 26225401   |
+|   15841 | PO BOX      | FORCE                   | PA    | PRIMARY      |   41 |  -78 | NA-US-PA-FORCE                                       |             0 |               0 |                   0 |            |
+|   15845 | STANDARD    | JOHNSONBURG             | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-JOHNSONBURG                                 |             0 |            1684 |                2861 | 49226282   |
+|   15846 | STANDARD    | KERSEY                  | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-KERSEY                                      |             0 |            1677 |                2950 | 50793872   |
+|   15847 | PO BOX      | KNOX DALE               | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-KNOX DALE                                   |             0 |               0 |                   0 |            |
+|   15848 | STANDARD    | LUTHERSBURG             | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-LUTHERSBURG                                 |             0 |             506 |                 904 | 12421191   |
+|   15849 | STANDARD    | PENFIELD                | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-PENFIELD                                    |             0 |             693 |                1195 | 17738933   |
+|   15851 | STANDARD    | REYNOLDSVILLE           | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-REYNOLDSVILLE                               |             0 |            3189 |                5665 | 82175103   |
+|   15853 | STANDARD    | RIDGWAY                 | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-RIDGWAY                                     |             0 |            3395 |                5800 | 97289662   |
+|   15856 | STANDARD    | ROCKTON                 | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-ROCKTON                                     |             0 |             447 |                 794 | 14272081   |
+|   15857 | STANDARD    | SAINT MARYS             | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-SAINT MARYS                                 |             0 |            7079 |               12039 | 228327216  |
+|   15860 | STANDARD    | SIGEL                   | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-SIGEL                                       |             0 |             578 |                 999 | 14977538   |
+|   15861 | STANDARD    | SINNAMAHONING           | PA    | PRIMARY      |   41 |  -78 | NA-US-PA-SINNAMAHONING                               |             0 |               0 |                   0 |            |
+|   15863 | PO BOX      | STUMP CREEK             | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-STUMP CREEK                                 |             0 |               0 |                   0 |            |
+|   15864 | STANDARD    | SUMMERVILLE             | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-SUMMERVILLE                                 |             0 |             902 |                1615 | 26045994   |
+|   15865 | STANDARD    | SYKESVILLE              | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-SYKESVILLE                                  |             0 |             588 |                 976 | 14919718   |
+|   15866 | STANDARD    | TROUTVILLE              | PA    | PRIMARY      |   41 |  -79 | NA-US-PA-TROUTVILLE                                  |             0 |               0 |                   0 |            |
+|   15868 | STANDARD    | WEEDVILLE               | PA    | PRIMARY      |   41 |  -78 | NA-US-PA-WEEDVILLE                                   |             0 |             691 |                1254 | 21209662   |
+|   15870 | STANDARD    | WILCOX                  | PA    | PRIMARY      |   42 |  -79 | NA-US-PA-WILCOX                                      |             0 |             685 |                1150 | 22281572   |
+|   15901 | STANDARD    | JOHNSTOWN               | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-JOHNSTOWN                                   |             0 |            1690 |                2473 | 25365851   |
+|   15902 | STANDARD    | JOHNSTOWN               | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-JOHNSTOWN                                   |             0 |            5783 |                9511 | 130411837  |
+|   15904 | STANDARD    | JOHNSTOWN               | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-JOHNSTOWN                                   |             0 |            7522 |               12978 | 279136118  |
+|   15905 | STANDARD    | JOHNSTOWN               | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-JOHNSTOWN                                   |             0 |           10734 |               18374 | 401535755  |
+|   15906 | STANDARD    | JOHNSTOWN               | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-JOHNSTOWN                                   |             0 |            5151 |                8524 | 116713364  |
+|   15907 | PO BOX      | JOHNSTOWN               | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-JOHNSTOWN                                   |             0 |               0 |                   0 |            |
+|   15909 | STANDARD    | JOHNSTOWN               | PA    | PRIMARY      |   40 |  -79 | NA-US-PA-JOHNSTOWN                                   |             0 |            2728 |                4728 | 75272423   |
++---------+-------------+-------------------------+-------+--------------+------+------+------------------------------------------------------+---------------+-----------------+---------------------+------------+
+6410 rows in set (0.06 sec)
+
+mysql> ^CCtrl-C -- exit!
+Aborted
+student@student-HP-14-Notebook-PC:/var/www/irene/laravel_project$ php artisan make:model ZipCode
+Model already exists!
+student@student-HP-14-Notebook-PC:/var/www/irene/laravel_project$ ls
+app        composer.json  database      phpspec.yml  readme.md   storage  wget-log         zip_codes.sql.2
+artisan    composer.lock  gulpfile.js   phpunit.xml  resources   tests    zip_codes.sql
+bootstrap  config         package.json  public       server.php  vendor   zip_codes.sql.1
+student@student-HP-14-Notebook-PC:/var/www/irene/laravel_project$ ls -la
+total 13128
+drwxrwxr-x 11 student student    4096 Onk 10 11:02 .
+drwxrwxrwx  5 root    root       4096 Onk 10 10:49 ..
+drwxrwxr-x 10 student student    4096 Onk  8 12:34 app
+-rwxr-xr-x  1 student student    1646 Hag 30 14:31 artisan
+drwxrwxr-x  3 student student    4096 Hag 30 14:31 bootstrap
+-rw-rw-r--  1 student student    1201 Hag 30 14:31 composer.json
+-rw-rw-r--  1 student student  104824 Ful  9 19:54 composer.lock
+drwxrwxr-x  2 student student    4096 Hag 30 14:31 config
+drwxrwxr-x  5 student student    4096 Hag 30 14:31 database
+-rw-rw-r--  1 student student     329 Onk  8 13:42 .env
+-rw-rw-r--  1 student student     307 Hag 30 14:31 .env.example
+-rw-rw-r--  1 student student      61 Hag 30 14:31 .gitattributes
+-rw-rw-r--  1 student student      57 Hag 30 14:31 .gitignore
+-rw-rw-r--  1 student student     503 Hag 30 14:31 gulpfile.js
+-rw-rw-r--  1 student student     159 Hag 30 14:31 package.json
+-rw-rw-r--  1 student student      87 Hag 30 14:31 phpspec.yml
+-rw-rw-r--  1 student student     899 Hag 30 14:31 phpunit.xml
+drwxrwxr-x  2 student student    4096 Hag 30 14:31 public
+-rw-rw-r--  1 student student    1928 Hag 30 14:31 readme.md
+drwxrwxr-x  5 student student    4096 Hag 30 14:31 resources
+-rw-rw-r--  1 student student     567 Hag 30 14:31 server.php
+drwxrwxr-x  5 student student    4096 Hag 30 14:31 storage
+drwxrwxr-x  2 student student    4096 Hag 30 14:31 tests
+drwxrwxr-x 28 student student    4096 Ful  9 19:54 vendor
+-rw-rw-r--  1 student student    6828 Onk  8 13:14 wget-log
+-rw-rw-r--  1 student student 4408437 Onk  8 13:14 zip_codes.sql
+-rw-rw-r--  1 student student 4408437 Onk  8 13:00 zip_codes.sql.1
+-rw-rw-r--  1 student student 4408437 Onk 10 11:03 zip_codes.sql.2
+student@student-HP-14-Notebook-PC:/var/www/irene/laravel_project$ composer dump-autoload
+Generating autoload files
+student@student-HP-14-Notebook-PC:/var/www/irene/laravel_project$ php artisan serve
+Laravel development server started on http://localhost:8000/
+[Sat Oct 10 11:25:38 2015] 127.0.0.1:44498 [200]: /favicon.ico
+[Sat Oct 10 11:26:36 2015] 127.0.0.1:44503 [200]: /favicon.ico
+[Sat Oct 10 11:45:41 2015] 127.0.0.1:44518 [200]: /favicon.ico
+[Sat Oct 10 12:00:11 2015] 127.0.0.1:44558 [200]: /favicon.ico
+[Sat Oct 10 12:00:13 2015] 127.0.0.1:44560 [200]: /favicon.ico
+^C
+student@student-HP-14-Notebook-PC:/var/www/irene/laravel_project$ rm -rf vendor/
+student@student-HP-14-Notebook-PC:/var/www/irene/laravel_project$ composer install
+Loading composer repositories with package information
+Installing dependencies (including require-dev) from lock file
+  - Installing jakub-onderka/php-console-color (0.1)
+    Loading from cache
+
+  - Installing vlucas/phpdotenv (v1.1.1)
+    Loading from cache
+
+  - Installing symfony/var-dumper (v2.7.4)
+    Loading from cache
+
+  - Installing symfony/translation (v2.7.4)
+    Loading from cache
+
+  - Installing symfony/routing (v2.7.4)
+    Loading from cache
+
+  - Installing symfony/process (v2.7.4)
+    Loading from cache
+
+  - Installing symfony/http-foundation (v2.7.4)
+    Loading from cache
+
+  - Installing symfony/event-dispatcher (v2.7.4)
+    Loading from cache
+
+  - Installing psr/log (1.0.0)
+    Loading from cache
+
+  - Installing symfony/debug (v2.7.4)
+    Loading from cache
+
+  - Installing symfony/http-kernel (v2.7.4)
+    Loading from cache
+
+  - Installing symfony/finder (v2.7.4)
+    Loading from cache
+
+  - Installing symfony/dom-crawler (v2.7.4)
+    Loading from cache
+
+  - Installing symfony/css-selector (v2.7.4)
+    Loading from cache
+
+  - Installing symfony/console (v2.7.4)
+    Loading from cache
+
+  - Installing swiftmailer/swiftmailer (v5.4.1)
+    Loading from cache
+
+  - Installing nikic/php-parser (v1.4.0)
+    Loading from cache
+
+  - Installing jakub-onderka/php-console-highlighter (v0.3.2)
+    Loading from cache
+
+  - Installing dnoegel/php-xdg-base-dir (0.1)
+    Loading from cache
+
+  - Installing psy/psysh (v0.5.2)
+    Loading from cache
+
+  - Installing nesbot/carbon (1.20.0)
+    Loading from cache
+
+  - Installing mtdowling/cron-expression (v1.0.4)
+    Loading from cache
+
+  - Installing monolog/monolog (1.17.1)
+    Loading from cache
+
+  - Installing league/flysystem (1.0.12)
+    Loading from cache
+
+  - Installing jeremeamia/superclosure (2.1.0)
+    Loading from cache
+
+  - Installing doctrine/inflector (v1.0.1)
+    Loading from cache
+
+  - Installing danielstjules/stringy (1.10.0)
+    Loading from cache
+
+  - Installing classpreloader/classpreloader (2.0.0)
+    Loading from cache
+
+  - Installing laravel/framework (v5.1.16)
+    Loading from cache
+
+  - Installing fzaninotto/faker (v1.5.0)
+    Loading from cache
+
+  - Installing hamcrest/hamcrest-php (v1.2.2)
+    Loading from cache
+
+  - Installing mockery/mockery (0.9.4)
+    Loading from cache
+
+  - Installing phpdocumentor/reflection-docblock (2.0.4)
+    Loading from cache
+
+  - Installing symfony/yaml (v2.7.4)
+    Loading from cache
+
+  - Installing sebastian/recursion-context (1.0.1)
+    Loading from cache
+
+  - Installing sebastian/exporter (1.2.1)
+    Loading from cache
+
+  - Installing sebastian/diff (1.3.0)
+    Loading from cache
+
+  - Installing sebastian/comparator (1.2.0)
+    Loading from cache
+
+  - Installing doctrine/instantiator (1.0.5)
+    Loading from cache
+
+  - Installing phpspec/prophecy (v1.5.0)
+    Loading from cache
+
+  - Installing phpspec/php-diff (v1.0.2)
+    Loading from cache
+
+  - Installing phpspec/phpspec (2.3.0)
+    Loading from cache
+
+  - Installing phpunit/php-token-stream (1.4.6)
+    Loading from cache
+
+  - Installing sebastian/version (1.0.6)
+    Loading from cache
+
+  - Installing sebastian/global-state (1.0.0)
+    Loading from cache
+
+  - Installing sebastian/environment (1.3.2)
+    Loading from cache
+
+  - Installing phpunit/php-text-template (1.2.1)
+    Loading from cache
+
+  - Installing phpunit/phpunit-mock-objects (2.3.7)
+    Loading from cache
+
+  - Installing phpunit/php-timer (1.0.7)
+    Loading from cache
+
+  - Installing phpunit/php-file-iterator (1.4.1)
+    Loading from cache
+
+  - Installing phpunit/php-code-coverage (2.2.2)
+    Loading from cache
+
+  - Installing phpunit/phpunit (4.8.6)
+    Downloading: 100%         
+    Downloading: 100%         
+    Downloading: 100%         
+    Failed to download phpunit/phpunit from dist: The "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/2246830f4a1a551c67933e4171bf2126dc29d357" file could not be downloaded: php_network_getaddresses: getaddrinfo failed: Name or service not known
+failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    Now trying to download from source
+  - Installing phpunit/phpunit (4.8.6)
+    Cloning 2246830f4a1a551c67933e4171bf2126dc29d357
+
+ - Installing phpunit/phpunit (4.8.6)
+    Cloning 2246830f4a1a551c67933e4171bf2126dc29d357
+
+
+                                                                                                                     
+  [RuntimeException]                                                                                                 
+  Failed to clone git@github.com:sebastianbergmann/phpunit.git via git, https, ssh protocols, aborting.              
+  - git://github.com/sebastianbergmann/phpunit.git                                                                   
+    Cloning into '/var/www/irene/laravel_project/vendor/phpunit/phpunit'...                                          
+    fatal: unable to connect to github.com:                                                                          
+    github.com: Name or service not known                                                                            
+                                                                                                                     
+  - https://github.com/sebastianbergmann/phpunit.git                                                                 
+    Cloning into '/var/www/irene/laravel_project/vendor/phpunit/phpunit'...                                          
+    fatal: unable to access 'https://github.com/sebastianbergmann/phpunit.git/': Could not resolve host: github.com  
+  - git@github.com:sebastianbergmann/phpunit.git                                                                     
+    Cloning into '/var/www/irene/laravel_project/vendor/phpunit/phpunit'...                                          
+    ssh: Could not resolve hostname github.com: Name or service not known                                            
+    fatal: Could not read from remote repository.                                                                    
+                                                                                                                     
+    Please make sure you have the correct access rights                                                              
+    and the repository exists.                                                                                       
+                                                                                                                     
+
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-plugins] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [--ignore-platform-reqs] [packages1] ... [packagesN]
+
+
+student@student-HP-14-Notebook-PC:/var/www/irene/laravel_project$ php artisan serve
+PHP Warning:  require(/var/www/irene/laravel_project/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/irene/laravel_project/bootstrap/autoload.php on line 17
+PHP Fatal error:  require(): Failed opening required '/var/www/irene/laravel_project/bootstrap/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/irene/laravel_project/bootstrap/autoload.php on line 17
+student@student-HP-14-Notebook-PC:/var/www/irene/laravel_project$ composer dump-autoload
+Generating autoload files
+student@student-HP-14-Notebook-PC:/var/www/irene/laravel_project$ php artisan serve
+Laravel development server started on http://localhost:8000/
+[Sat Oct 10 12:13:11 2015] 127.0.0.1:44562 [200]: /favicon.ico
+[Sat Oct 10 12:13:12 2015] 127.0.0.1:44564 [200]: /favicon.ico
+
+
+
+
